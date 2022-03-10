@@ -7,7 +7,7 @@ public class App
         //System.out.println(factorial(4));
     }
 
-    public static int factorial(int num) {
+    public int factorial(int num) {
         int result = 1;
         int i = 1;
 
